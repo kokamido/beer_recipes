@@ -16,11 +16,11 @@
 ### Beer Stats
 
 *   **ABV:** 5.8%
-*   **Original Gravity (OG):** 1.058
-*   **Final Gravity (FG):** 1.015
+*   **Original Gravity (OG):** 1.062
+*   **Final Gravity (FG):** 1.012
 *   **EBC:** 13
-*   **IBU (Tinseth):** 45
-*   **BU/GU:** 0.78
+*   **IBU (Tinseth):** 51
+*   **BU/GU:** 0.87
 
 ---
 
@@ -43,8 +43,8 @@
 | Hop     | Amount | Use      | Time     | Alpha % | IBU  |
 | ------- | ------ | -------- | -------- | ------- | ---- |
 | Magnum  | 25 g   | Boil     | 60 min   | 14.5%   | 34.9 |
-| Chinook | 50 g   | Hopstand | 20 min   | 10.8%   | 4.6  |
-| Citra   | 50 g   | Hopstand | 20 min   | 13.8%   | 5.8  |
+| Chinook | 50 g   | Hopstand | 80C 20 min   | 10.8%   | 4.6  |
+| Citra   | 50 g   | Hopstand | 80C 20 min   | 13.8%   | 5.8  |
 | Chinook | 50 g   | Dry Hop  | 4 days   | 10.8%   |      |
 | Citra   | 50 g   | Dry Hop  | 4 days   | 13.8%   |      |
 | Mosaic  | 50 g   | Dry Hop  | 4 days   | 12.3%   |      |
@@ -89,10 +89,3 @@
 | Dry Hopping        | 18°C        | 4 days (add on 1.018-1.020 SG)  |10 psi   |
 | Cold Crash         | 1°C         | 2 days   |10 psi   |
 | Carbo in kegs (after filtering)| 1°C         | 7 days   |10 psi  |
-
-
----
-
-### Final Gravity
-
-*   **Estimated Final Gravity:** 1.012 
