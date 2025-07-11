@@ -45,12 +45,9 @@
 | Magnum  | 25 g   | Boil     | 60 min   | 14.5%   | 34.9 |
 | Chinook | 50 g   | Hopstand | 20 min   | 10.8%   | 4.6  |
 | Citra   | 50 g   | Hopstand | 20 min   | 13.8%   | 5.8  |
-| Chinook | 25 g   | Dry Hop  | 5 days   | 10.8%   |      |
-| Citra   | 25 g   | Dry Hop  | 5 days   | 13.8%   |      |
-| Mosaic  | 25 g   | Dry Hop  | 5 days   | 12.3%   |      |
-| Chinook | 25 g   | Dry Hop  | 3 days   | 10.8%   |      |
-| Citra   | 25 g   | Dry Hop  | 3 days   | 13.8%   |      |
-| Mosaic  | 25 g   | Dry Hop  | 3 days   | 12.3%   |      |
+| Chinook | 50 g   | Dry Hop  | 4 days   | 10.8%   |      |
+| Citra   | 50 g   | Dry Hop  | 4 days   | 13.8%   |      |
+| Mosaic  | 50 g   | Dry Hop  | 4 days   | 12.3%   |      |
 
 *   **Aroma Hops:** 4 g/l
 *   **Dry Hops:** 6 g/l
@@ -70,7 +67,7 @@
 
 ### Yeast
 
-*   1 pkg Lallemand (LalBrew) BRY-97 (75% Attenuation) - American West Coast Ale
+*   1 pkg Lallemand (LalBrew) BRY-97 (80% Attenuation) - American West Coast Ale
 
 ---
 
@@ -88,10 +85,9 @@
 
 | Step               | Temperature | Duration |Pressure|
 | ------------       | ----------- | -------- |--------|
-| Primary            | 18°C        | 3 days   |5 psi   |
-| Dry Hopping        | 18°C        | 2 days   |5 psi   |
-| Dry Hopping        | 15°C        | 3 days   |5 psi   |
-| Cold Crash         | 1°C         | 2 days   |5 psi   |
+| Primary            | 18°C        | ~5 days   |5 psi   |
+| Dry Hopping        | 18°C        | 4 days (add on 1.018-1.020 SG)  |10 psi   |
+| Cold Crash         | 1°C         | 2 days   |10 psi   |
 | Carbo in kegs (after filtering)| 1°C         | 7 days   |10 psi  |
 
 
@@ -99,5 +95,4 @@
 
 ### Final Gravity
 
-*   **Estimated Final Gravity:** 1.015 / 3.8°P
-
+*   **Estimated Final Gravity:** 1.012 
